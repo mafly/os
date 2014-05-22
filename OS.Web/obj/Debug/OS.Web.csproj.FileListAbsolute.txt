@@ -1,0 +1,206 @@
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\OS.Web.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\OS.Web.pdb
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\Antlr3.Runtime.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\DotNetOpenAuth.AspNet.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\DotNetOpenAuth.Core.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\DotNetOpenAuth.OAuth.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\DotNetOpenAuth.OpenId.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\Microsoft.Data.Edm.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\Microsoft.Data.OData.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\Newtonsoft.Json.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Net.Http.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Net.Http.Formatting.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Net.Http.WebRequest.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Spatial.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.Helpers.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.Http.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.Http.OData.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.Http.WebHost.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.Mvc.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.Optimization.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.Razor.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.WebPages.Deployment.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.WebPages.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.WebPages.Razor.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\WebGrease.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\WebMatrix.Data.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\WebMatrix.WebData.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\Newtonsoft.Json.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Net.Http.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Net.Http.Formatting.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Net.Http.WebRequest.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.Helpers.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.Http.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.Http.WebHost.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.Mvc.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.Razor.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.WebPages.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.WebPages.Deployment.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.WebPages.Razor.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\WebMatrix.Data.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\WebMatrix.WebData.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\DotNetOpenAuth.AspNet.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\DotNetOpenAuth.Core.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\DotNetOpenAuth.OAuth.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\DotNetOpenAuth.OpenId.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Web.Http.OData.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\Microsoft.Data.Edm.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\Microsoft.Data.OData.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\System.Spatial.xml
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\System.Net.Http.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\System.Web.Helpers.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\System.Web.Http.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\System.Web.Mvc.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\System.Web.Optimization.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\System.Web.Razor.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\System.Web.WebPages.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\WebMatrix.Data.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\WebMatrix.WebData.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\System.Web.Http.OData.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\de\Microsoft.Data.Edm.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\es\Microsoft.Data.Edm.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\it\Microsoft.Data.Edm.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\de\Microsoft.Data.OData.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\es\Microsoft.Data.OData.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\fr\Microsoft.Data.OData.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\it\Microsoft.Data.OData.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\ja\Microsoft.Data.OData.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\ko\Microsoft.Data.OData.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\ru\Microsoft.Data.OData.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\de\System.Spatial.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\es\System.Spatial.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\fr\System.Spatial.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\it\System.Spatial.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\ja\System.Spatial.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\ko\System.Spatial.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\ru\System.Spatial.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hans\System.Spatial.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\bin\zh-Hant\System.Spatial.resources.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\obj\Debug\OS.Web.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\obj\Debug\OS.Web.pdb
+c:\Users\administrator\documents\visual studio 2012\Projects\OS\OS.Web\obj\Debug\OS.Web.csprojResolveAssemblyReference.cache
+D:\Git\os\OS.Web\bin\OS.Web.dll
+D:\Git\os\OS.Web\bin\OS.Web.pdb
+D:\Git\os\OS.Web\bin\Antlr3.Runtime.dll
+D:\Git\os\OS.Web\bin\DotNetOpenAuth.AspNet.dll
+D:\Git\os\OS.Web\bin\DotNetOpenAuth.Core.dll
+D:\Git\os\OS.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Git\os\OS.Web\bin\DotNetOpenAuth.OAuth.dll
+D:\Git\os\OS.Web\bin\DotNetOpenAuth.OpenId.dll
+D:\Git\os\OS.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Git\os\OS.Web\bin\Microsoft.Data.Edm.dll
+D:\Git\os\OS.Web\bin\Microsoft.Data.OData.dll
+D:\Git\os\OS.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Git\os\OS.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Git\os\OS.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Git\os\OS.Web\bin\Newtonsoft.Json.dll
+D:\Git\os\OS.Web\bin\System.Net.Http.dll
+D:\Git\os\OS.Web\bin\System.Net.Http.Formatting.dll
+D:\Git\os\OS.Web\bin\System.Net.Http.WebRequest.dll
+D:\Git\os\OS.Web\bin\System.Spatial.dll
+D:\Git\os\OS.Web\bin\System.Web.Helpers.dll
+D:\Git\os\OS.Web\bin\System.Web.Http.dll
+D:\Git\os\OS.Web\bin\System.Web.Http.OData.dll
+D:\Git\os\OS.Web\bin\System.Web.Http.WebHost.dll
+D:\Git\os\OS.Web\bin\System.Web.Mvc.dll
+D:\Git\os\OS.Web\bin\System.Web.Optimization.dll
+D:\Git\os\OS.Web\bin\System.Web.Razor.dll
+D:\Git\os\OS.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Git\os\OS.Web\bin\System.Web.WebPages.dll
+D:\Git\os\OS.Web\bin\System.Web.WebPages.Razor.dll
+D:\Git\os\OS.Web\bin\WebGrease.dll
+D:\Git\os\OS.Web\bin\WebMatrix.Data.dll
+D:\Git\os\OS.Web\bin\WebMatrix.WebData.dll
+D:\Git\os\OS.Web\bin\Newtonsoft.Json.xml
+D:\Git\os\OS.Web\bin\System.Net.Http.xml
+D:\Git\os\OS.Web\bin\System.Net.Http.Formatting.xml
+D:\Git\os\OS.Web\bin\System.Net.Http.WebRequest.xml
+D:\Git\os\OS.Web\bin\System.Web.Helpers.xml
+D:\Git\os\OS.Web\bin\System.Web.Http.xml
+D:\Git\os\OS.Web\bin\System.Web.Http.WebHost.xml
+D:\Git\os\OS.Web\bin\System.Web.Mvc.xml
+D:\Git\os\OS.Web\bin\System.Web.Razor.xml
+D:\Git\os\OS.Web\bin\System.Web.WebPages.xml
+D:\Git\os\OS.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Git\os\OS.Web\bin\System.Web.WebPages.Razor.xml
+D:\Git\os\OS.Web\bin\WebMatrix.Data.xml
+D:\Git\os\OS.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Git\os\OS.Web\bin\WebMatrix.WebData.xml
+D:\Git\os\OS.Web\bin\DotNetOpenAuth.AspNet.xml
+D:\Git\os\OS.Web\bin\DotNetOpenAuth.Core.xml
+D:\Git\os\OS.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Git\os\OS.Web\bin\DotNetOpenAuth.OAuth.xml
+D:\Git\os\OS.Web\bin\DotNetOpenAuth.OpenId.xml
+D:\Git\os\OS.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Git\os\OS.Web\bin\System.Web.Http.OData.xml
+D:\Git\os\OS.Web\bin\Microsoft.Data.Edm.xml
+D:\Git\os\OS.Web\bin\Microsoft.Data.OData.xml
+D:\Git\os\OS.Web\bin\System.Spatial.xml
+D:\Git\os\OS.Web\bin\zh-Hans\System.Net.Http.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\System.Web.Http.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\WebMatrix.Data.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\WebMatrix.WebData.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\System.Web.Http.OData.resources.dll
+D:\Git\os\OS.Web\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Git\os\OS.Web\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Git\os\OS.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Git\os\OS.Web\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Git\os\OS.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Git\os\OS.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Git\os\OS.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Git\os\OS.Web\bin\de\Microsoft.Data.OData.resources.dll
+D:\Git\os\OS.Web\bin\es\Microsoft.Data.OData.resources.dll
+D:\Git\os\OS.Web\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Git\os\OS.Web\bin\it\Microsoft.Data.OData.resources.dll
+D:\Git\os\OS.Web\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Git\os\OS.Web\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Git\os\OS.Web\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Git\os\OS.Web\bin\de\System.Spatial.resources.dll
+D:\Git\os\OS.Web\bin\es\System.Spatial.resources.dll
+D:\Git\os\OS.Web\bin\fr\System.Spatial.resources.dll
+D:\Git\os\OS.Web\bin\it\System.Spatial.resources.dll
+D:\Git\os\OS.Web\bin\ja\System.Spatial.resources.dll
+D:\Git\os\OS.Web\bin\ko\System.Spatial.resources.dll
+D:\Git\os\OS.Web\bin\ru\System.Spatial.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hans\System.Spatial.resources.dll
+D:\Git\os\OS.Web\bin\zh-Hant\System.Spatial.resources.dll
+D:\Git\os\OS.Web\obj\Debug\OS.Web.csprojResolveAssemblyReference.cache
+D:\Git\os\OS.Web\obj\Debug\OS.Web.dll
+D:\Git\os\OS.Web\obj\Debug\OS.Web.pdb
